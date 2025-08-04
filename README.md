@@ -1,18 +1,21 @@
-# 👋 Hi, I'm Suganraj Arrighi
+Hey there 👋 I’m Suganraj — a frontend engineer who cares about more than just pixels.
 
 ## 💻 Frontend Developer | Angular • React • Node.js
-📍 Chennai, India | 4.9+ Years Experience | Open to Remote / Chennai-based Roles
+Frontend Developer | Angular • React • Node.js | Performance & Accessibility Advocate | 4+ Yrs Experience 
 
 ---
 
 ### 🧑‍💼 About Me
-I'm a passionate frontend developer with expertise in Angular and React, crafting scalable and accessible web applications for the last 4.9 years. At Learnship, I've delivered UI libraries, optimized performance (30% faster load times), and ensured WCAG 2.1 compliance across enterprise apps.
+I'm a a frontend engineer who cares about more than just pixels.
 
-I focus on:
-- ⚡ Web performance optimization
-- 🧩 Component-based architecture
-- ♿ Accessibility (WCAG, ARIA)
-- 🔁 DevOps & CI/CD with Docker, GitHub Actions, and AWS
+With 4+ years of experience building modern web applications, I’ve had the opportunity to turn complex UI challenges into simple, performant, and reusable solutions. My core work has been on Angular (v8 to v14), but I’ve also rolled out production-ready apps in React and Node.js.
+
+🔨 Whether it's crafting a design system, speeding up load times, or making apps screen-reader friendly, I love building for real users. Some wins I’m proud of:
+- ⏱️ Cut app load times by 30% through smarter lazy loading and module refactors
+- ♿ Improved WCAG accessibility from 64% → 87% by reworking legacy Angular components
+- 📦 Built an internal Angular UI library adopted by 3+ product teams
+- 📊 Integrated Datadog into the frontend stack to catch issues before users do
+- 🚀 Automated frontend deployments with Docker, GitHub Actions & AWS
 
 ---
 
