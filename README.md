@@ -1,4 +1,4 @@
-Hey there 👋 I’m Suganraj — a frontend engineer who cares about more than just pixels.
+# 👋 I’m Suganraj Arrighi
 
 ## 💻 Frontend Developer | Angular • React • Node.js
 Frontend Developer | Angular • React • Node.js | Performance & Accessibility Advocate | 4+ Yrs Experience 
@@ -6,7 +6,7 @@ Frontend Developer | Angular • React • Node.js | Performance & Accessibility
 ---
 
 ### 🧑‍💼 About Me
-I'm a a frontend engineer who cares about more than just pixels.
+I'm a frontend engineer who cares about more than just pixels.
 
 With 4+ years of experience building modern web applications, I’ve had the opportunity to turn complex UI challenges into simple, performant, and reusable solutions. My core work has been on Angular (v8 to v14), but I’ve also rolled out production-ready apps in React and Node.js.
 
