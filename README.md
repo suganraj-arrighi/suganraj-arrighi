@@ -49,8 +49,9 @@ Refactored 50+ legacy components to meet WCAG 2.1 standards. Raised audit scores
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suganraj-arrighi&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suganraj-arrighi&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suganraj-arrighi&show_icons=true&theme=radical" height="170"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suganraj-arrighi&theme=dark&hide_border=false" height="170"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suganraj-arrighi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/><br>
 </p>
 
 ---
