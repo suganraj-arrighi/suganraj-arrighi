@@ -1,7 +1,7 @@
 # 👋 I’m Suganraj Arrighi
 
 ## 💻 Frontend Developer | Angular • React • Node.js
-Frontend Developer | Angular • React • Node.js | Performance & Accessibility Advocate | 4+ Yrs Experience 
+Frontend Developer | Angular • React • Node.js | Performance & Accessibility Advocate | 5+ Yrs Experience 
 
 ---
 
